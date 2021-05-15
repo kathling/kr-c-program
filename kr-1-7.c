@@ -1,3 +1,4 @@
+/* 1.7 Functions */
 #include <stdio.h>
 
 int power(int m, int n);
